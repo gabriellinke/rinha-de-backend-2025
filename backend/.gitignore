@@ -1,0 +1,35 @@
+# Gradle
+.gradle/
+build/
+
+# Executáveis Gradle (Unix e Windows)
+gradlew
+gradlew.bat
+
+# Diretório de configurações do wrapper
+gradle/
+
+# Arquivos de logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VS Code
+.vscode/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Test reports
+test-results/
+test-report/
